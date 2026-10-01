@@ -1,0 +1,6 @@
+@ProductosTUP_HostAddress = http://localhost:5016
+
+GET {{ProductosTUP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
